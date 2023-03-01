@@ -1,0 +1,15 @@
+C:\Users\jacob\source\repos\clubMemberIndexer\bin\Debug\net6.0\clubMemberIndexer.exe
+C:\Users\jacob\source\repos\clubMemberIndexer\bin\Debug\net6.0\clubMemberIndexer.deps.json
+C:\Users\jacob\source\repos\clubMemberIndexer\bin\Debug\net6.0\clubMemberIndexer.runtimeconfig.json
+C:\Users\jacob\source\repos\clubMemberIndexer\bin\Debug\net6.0\clubMemberIndexer.dll
+C:\Users\jacob\source\repos\clubMemberIndexer\bin\Debug\net6.0\clubMemberIndexer.pdb
+C:\Users\jacob\source\repos\clubMemberIndexer\obj\Debug\net6.0\clubMemberIndexer.csproj.AssemblyReference.cache
+C:\Users\jacob\source\repos\clubMemberIndexer\obj\Debug\net6.0\clubMemberIndexer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacob\source\repos\clubMemberIndexer\obj\Debug\net6.0\clubMemberIndexer.AssemblyInfoInputs.cache
+C:\Users\jacob\source\repos\clubMemberIndexer\obj\Debug\net6.0\clubMemberIndexer.AssemblyInfo.cs
+C:\Users\jacob\source\repos\clubMemberIndexer\obj\Debug\net6.0\clubMemberIndexer.csproj.CoreCompileInputs.cache
+C:\Users\jacob\source\repos\clubMemberIndexer\obj\Debug\net6.0\clubMemberIndexer.dll
+C:\Users\jacob\source\repos\clubMemberIndexer\obj\Debug\net6.0\refint\clubMemberIndexer.dll
+C:\Users\jacob\source\repos\clubMemberIndexer\obj\Debug\net6.0\clubMemberIndexer.pdb
+C:\Users\jacob\source\repos\clubMemberIndexer\obj\Debug\net6.0\clubMemberIndexer.genruntimeconfig.cache
+C:\Users\jacob\source\repos\clubMemberIndexer\obj\Debug\net6.0\ref\clubMemberIndexer.dll
